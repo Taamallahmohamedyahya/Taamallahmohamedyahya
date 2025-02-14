@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taamallahmohamedyahya&label=Profile%20views&color=0e75b6&style=flat" alt="taamallahmohamedyahya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taamallahmohamedyahya" alt="taamallahmohamedyahya" /></a> </p>
-
-- 🌱 I’m currently learning **Cyber security et ML**
+- 🌱 I’m currently learning **Cyber Security and ML**
 
 - 📫 How to reach me **taamallahyahya7@gmail.com**
 
-- ⚡ Fun fact **Mon code est propre, mais mon bureau ressemble à une zone sinistrée après une nuit de debug 🖥️🔥**
+- ⚡ Fun fact **My code is clean, but my desktop looks like a disaster zone after a night of debugging 🖥️🔥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
