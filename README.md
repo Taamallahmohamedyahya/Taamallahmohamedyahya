@@ -5,13 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=taamallahmohamedyahya&label=Profile%20views&color=0e75b6&style=flat" alt="taamallahmohamedyahya" />
 </p>
 
-<img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="250" height="200" />
+<img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="250" height="200"/>
 
 - 🌱 I’m currently learning **Cyber Security and ML**  
 - 📫 How to reach me **taamallahyahya7@gmail.com**  
 - ⚡ Fun fact **My code is clean, but my desktop looks like a disaster zone after a night of debugging 🖥️🔥**  
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,8 +17,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taamallahyahya7" height="30" width="40" />
   </a>
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -61,8 +57,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
----
 
 <h3 align="left">Stats:</h3>
 <p align="left">
