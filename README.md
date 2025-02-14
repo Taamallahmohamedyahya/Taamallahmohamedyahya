@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cyber Security and ML**  
 - 📫 How to reach me **taamallahyahya7@gmail.com**  
-- ⚡ Fun fact **My code is clean, but my desktop looks like a disaster zone after a night of debugging 🖥️🔥**  
+- ⚡ Fun fact **My code is clean, but my desktop looks like a disaster zone after a night of debugging **  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
