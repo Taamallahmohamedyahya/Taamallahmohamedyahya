@@ -2,7 +2,7 @@
 <h3 align="center">Ingénieur réseaux et télécommunications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taamallahmohamedyahya&label=Profile%20views&color=0e75b6&style=flat" alt="taamallahmohamedyahya" /> </p>
-<img align="right" alt="GIF" src="[https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952fh54ud4z77hoqajp36h608q32th93jttwshvdxc5&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/200w.gif?cid=6c09b952elrvppbi5gsk1z40xgpsvg9fypnmwbip1iimr2v4&ep=v1_gifs_search&rid=200w.gif&ct=g)" />
+<img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
 
 - 🌱 I’m currently learning **Cyber Security and ML**
 
