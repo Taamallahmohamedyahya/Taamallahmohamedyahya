@@ -5,10 +5,6 @@
 <!-- Badge de visiteur (COMPTE RÉEL) -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Taamallahmohamedyahya&color=blue&style=flat-square&label=Profile+Views)
 
-<!-- Badges d'activité GitHub -->
-![GitHub followers](https://img.shields.io/github/followers/Taamallahmohamedyahya?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Taamallahmohamedyahya?label=Stars&style=social)
-
 - 🎥 I'm currently learning **Cyber Security** and **Machine Learning**
 - 📫 How to reach me: taamallahyahya7@gmail.com
 - ⚡ Fun fact: My code is clean, but my desktop looks like a disaster zone after a night of debugging 🖥️🔥
